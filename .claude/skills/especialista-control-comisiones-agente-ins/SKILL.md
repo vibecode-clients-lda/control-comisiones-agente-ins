@@ -25,9 +25,9 @@ App web que JC les da a **otros agentes INS** (colegas, no él mismo) para que r
 
 ## Identidad y recursos
 
-- **Repo:** `jhernandez-vibecode/control-comisiones-agente-ins` — **PRIVADO** (según el nodo original; no verificado contra GitHub).
+- **Repo:** `vibecode-clients-lda/control-comisiones-agente-ins` (el nombre viejo `jhernandez-vibecode/…` redirige) — 🔴 **PÚBLICO**, verificado con `gh repo view` el 12 oct 2026: nada de datos de clientes ni CSV reales en el repo.
   - Publicado el 21 abr 2026 de noche. Camino que funcionó: JC creó el repo vacío en github.com/new y el push se hizo desde la línea de comandos. **GitHub Desktop falló silenciosamente** — no usarlo para este repo.
-- **Local:** `C:\Users\segur\Desktop\control-comisiones-agente-ins\` — verificado 22-jul-2026: existe, working tree limpio, `main` == `origin/main`.
+- **Local:** `C:\Users\segur\control-comisiones-agente-ins\` (clonado el 12 oct 2026; la carpeta del Desktop ya no existe).
 - **Producción:** ⏳ **PENDIENTE.** JC planea conectarlo a Netlify. No hay `netlify.toml` ni configuración de deploy en el repo. Hoy se usa abriendo `index.html` con doble clic.
 - **Título en pantalla:** "Control de Comisiones Agente INS" — subtítulo "Validá tu pago de comisiones por quincena".
 - **Marca:** pie "Powered by **SDI Seguros Digitales INS**" → `https://segurosdigitales.com` (desde el 12 oct 2026; antes "Seguros Digitales SDI"; el mismo nombre va en el `<title>` y en la 2.ª fila de la hoja Resumen del Excel). Header con degradado azul (`from-blue-800 to-blue-950`).
