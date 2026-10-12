@@ -24,4 +24,4 @@ Todo corre en el navegador del agente. Nada se envía a servidores. El CSV y la 
 
 ---
 
-**Powered by [Seguros Digitales SDI](https://segurosdigitales.com)**
+**Powered by [SDI Seguros Digitales INS](https://segurosdigitales.com)**
